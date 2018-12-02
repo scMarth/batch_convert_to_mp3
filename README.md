@@ -4,7 +4,7 @@
 
 Some simple Windows Batch Files to batch ffmpeg conversions to .mp3 files. This project comes with a pre-compiled version of ffpmeg.exe that is tested on Windows 8.1.
 
-ffmpeg can be found here: https://github.com/FFmpeg/FFmpeg
+The source (git repo) for ffmpeg can be found here: https://github.com/FFmpeg/FFmpeg
 
 ## Usage:
 
