@@ -1,3 +1,3 @@
 - Test on files with special characters in the filename
 - Test on many files
-- create convert_DIR_to_mp3.bat for use with 90+ conversions
+- Test convert_DIR_to_mp3.bat for use with 90+ conversions
