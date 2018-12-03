@@ -13,3 +13,7 @@ Clone the repository to the desired location. Make sure that ffmpeg.exe and the 
 Drag and dropping files (**convert_to_mp3.bat**)
 
 1.) Drag and drop the files to convert onto "**convert_to_mp3.bat**"
+
+Drag and dropping folders (**convert_DIR_to_mp3.bat**)
+
+1.) Drag and drop a folder onto "**convert_DIR_to_mp3.bat**"
